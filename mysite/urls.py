@@ -19,5 +19,5 @@ from django.conf.urls import include, url
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'', include('learning_logs.urls')),
+    path('', include(('learning_logs.urls',"app_name"), namespace='learning_logs')),
 ]
