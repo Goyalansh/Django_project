@@ -10,4 +10,7 @@ urlpatterns = [
     url(r'^topics/$', views.topics, name='topics'),
     #page for adding a new topic
     url(r'^new_topic/$', views.new_topic, name='new_topic'),
+    # Detail page for a single topic
+    url(r'^topics/(?P<topic_id>\d+)/$', views.topic, name = 'topic'),
+
 ]
