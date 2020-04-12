@@ -18,7 +18,7 @@ def index(request):
 
 def topics(request):
     """show all topics"""
-    topics = Topic.objects.order_by('data_added')
+    topics = Topic.objects.order_by('date_added')
     context = {'topics': topics}
     return render(request, 'learning_logs/topics.html', context)
 
@@ -50,7 +50,7 @@ def new_entry(request, topic_id):
     """Add a new entry for a particular topic"""
     topic = Topic.objects.get(id=topic_id)
     
-    if request.method != 'post':
+    if request.method != 'POST':
         # No data submitted; create a blank form.
         form = EntryForm()
     else:
