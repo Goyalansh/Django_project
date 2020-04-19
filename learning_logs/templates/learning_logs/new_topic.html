@@ -4,6 +4,13 @@
 
  <p>ADD A NEW TOPIC</p>
 
+
+<!--
+the html form element defines a form that is used to collect user input
+The action argument tells the server where to send the data submitted in
+the form; in this case, we send it back to the view function new_topic().
+-->
+
  <form action="{% url 'learning_logs:new_topic' %}" method='post'>
     {%csrf_token %}
     {{form.as_p}}
