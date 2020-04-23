@@ -2,17 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="028b6e2b-6c4b-46d4-b2bd-cfc446f49050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_logs/migrations/0008_topic_owner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/beautifulsoup4-4.9.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/beautifulsoup4-4.9.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/beautifulsoup4-4.9.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/beautifulsoup4-4.9.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/beautifulsoup4-4.9.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/renderers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templates/bootstrap3/bootstrap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templates/bootstrap3/field_help_text_and_errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templates/bootstrap3/form_errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templates/bootstrap3/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templates/bootstrap3/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/templatetags/bootstrap3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap3/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/renderers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/bootstrap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/field_errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/field_help_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/form_errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templates/bootstrap4/widgets/radio_select_button_group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/templatetags/bootstrap4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bootstrap4/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/bs4/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/AUTHORS.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap3-12.0.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/AUTHORS.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/django_bootstrap4-1.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve-2.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/__meta__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/css_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/css_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/css_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll_env/Lib/site-packages/soupsieve/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_logs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topics.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
